@@ -1,1 +1,1 @@
-This testing collection for test work rom BrandQuad
+This testing collection for test work from BrandQuad
